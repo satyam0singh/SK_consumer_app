@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="hybridGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#90EE90;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#228B22;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="300" fill="#F5F5F5"/>
+  <g transform="translate(150, 150)">
+    <circle cx="-25" cy="-30" r="28" fill="url(#hybridGrad)"/>
+    <circle cx="20" cy="-35" r="30" fill="url(#hybridGrad)"/>
+    <circle cx="-8" cy="15" r="28" fill="url(#hybridGrad)"/>
+    <circle cx="28" cy="10" r="26" fill="url(#hybridGrad)"/>
+    <path d="M -30 -65 Q -10 -80 10 -65" stroke="#228B22" stroke-width="2" fill="none"/>
+  </g>
+</svg>

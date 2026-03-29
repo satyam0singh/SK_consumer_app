@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "511480315742",
+    "firebase_url": "https://smartkrishi-bd76f-default-rtdb.firebaseio.com",
+    "project_id": "smartkrishi-bd76f",
+    "storage_bucket": "smartkrishi-bd76f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511480315742:android:0cb0dfee9304b0408659cf",
+        "android_client_info": {
+          "package_name": "com.rituraj.smartkrishimarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511480315742-upqbjcgur0gvtf0osph6g5b3cos18395.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rituraj.smartkrishimarket",
+            "certificate_hash": "6e32a4bc5b89d39bd83b0033d2c84eec2ae0470a"
+          }
+        },
+        {
+          "client_id": "511480315742-81o6mo2rg6d92kfd0shfjkg75cn4bms6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRAtc-s4RFZLHzJ7nWnqaId9n-77FeVrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511480315742-81o6mo2rg6d92kfd0shfjkg75cn4bms6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511480315742:android:deaea2686fc77c188659cf",
+        "android_client_info": {
+          "package_name": "com.satyam.smartkrishi.consumer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511480315742-fjhebs65c86pv7tlf65oa2qii5rd2fg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.satyam.smartkrishi.consumer",
+            "certificate_hash": "76c53acf94cf2a1a9fe6c62f71d6754de837fd59"
+          }
+        },
+        {
+          "client_id": "511480315742-81o6mo2rg6d92kfd0shfjkg75cn4bms6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRAtc-s4RFZLHzJ7nWnqaId9n-77FeVrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511480315742-81o6mo2rg6d92kfd0shfjkg75cn4bms6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511480315742:android:1761c213ad7ce0288659cf",
+        "android_client_info": {
+          "package_name": "com.smartkrishi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511480315742-k6smhbrm1uvqiq34evgiq94tvc1tbb1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartkrishi",
+            "certificate_hash": "8a1d73c1ee64008e7f0a4332744b4a8c8b88c809"
+          }
+        },
+        {
+          "client_id": "511480315742-se1ir4v4julgtmas8semajb9qp9jam40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartkrishi",
+            "certificate_hash": "6e32a4bc5b89d39bd83b0033d2c84eec2ae0470a"
+          }
+        },
+        {
+          "client_id": "511480315742-81o6mo2rg6d92kfd0shfjkg75cn4bms6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRAtc-s4RFZLHzJ7nWnqaId9n-77FeVrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511480315742-81o6mo2rg6d92kfd0shfjkg75cn4bms6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

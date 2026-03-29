@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="600" viewBox="0 0 400 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#87CEEB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4682B4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#grad2)"/>
+  <rect x="80" y="150" width="240" height="200" rx="20" fill="white" opacity="0.9"/>
+  <text x="200" y="180" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="#228B22">
+    Farm Analytics
+  </text>
+  <circle cx="120" cy="250" r="30" fill="#228B22" opacity="0.3"/>
+  <text x="120" y="255" font-family="Arial" font-size="12" text-anchor="middle" fill="#228B22" font-weight="bold">
+    Soil
+  </text>
+  <circle cx="200" cy="250" r="30" fill="#FF6347" opacity="0.3"/>
+  <text x="200" y="255" font-family="Arial" font-size="12" text-anchor="middle" fill="#FF6347" font-weight="bold">
+    Water
+  </text>
+  <circle cx="280" cy="250" r="30" fill="#FFD700" opacity="0.3"/>
+  <text x="280" y="255" font-family="Arial" font-size="12" text-anchor="middle" fill="#FFD700" font-weight="bold">
+    Sun
+  </text>
+  <text x="200" y="380" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+    See how your food
+  </text>
+  <text x="200" y="410" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" fill="white">
+    is grown
+  </text>
+  <g transform="translate(200, 500)">
+    <circle cx="-15" cy="0" r="8" fill="white" opacity="0.8"/>
+    <circle cx="0" cy="0" r="8" fill="white" opacity="0.6"/>
+    <circle cx="15" cy="0" r="8" fill="white" opacity="0.4"/>
+  </g>
+</svg>
